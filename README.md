@@ -1,5 +1,5 @@
-# hanime-scraper
-A simple python scraper for hanime.tv I wrote because I was extremely bored.
+# H-Anime Scraper
+A simple hanime.tv scraper using BeautifulSoup4
 
 ## Getting Started
 
@@ -11,9 +11,8 @@ You need these modules:
 * [requests](https://pypi.org/project/requests/)
 
 ## Usage
-Take a peek inside the hanime.py file and you will see comments on what the functions are, what they return, etc.
 
-Sample usage:
+Code:
 ```python
 $ import hanime
 $ print(hanime.info("https://hanime.tv/videos/hentai/lovely-heart-2"))
