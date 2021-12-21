@@ -11,7 +11,7 @@ You need these modules:
 * [requests](https://pypi.org/project/requests/)
 
 ## Usage
-Take a peek inside the hanime.py file and you will comments on what the functions are, what they return, etc.
+Take a peek inside the hanime.py file and you will see comments on what the functions are, what they return, etc.
 
 Sample usage:
 ```
