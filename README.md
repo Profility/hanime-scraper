@@ -1,5 +1,5 @@
 # hanime-scraper
-A simple python scraper for hanime.tv
+A simple python scraper for hanime.tv I wrote because I was extremely bored.
 
 ## Getting Started
 
