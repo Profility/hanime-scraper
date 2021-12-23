@@ -1,5 +1,5 @@
 # H-Anime Scraper
-A simple hanime.tv scraper using BeautifulSoup4
+A simple hanime.tv scraper that scrapes release information using BeautifulSoup4
 
 Note: Please put a ratelimit or proxy to all of the HTTP Requests to prevent getting banned from accessing the hanime.tv website, just in case.
 
