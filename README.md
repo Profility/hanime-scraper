@@ -1,26 +1,23 @@
 # H-Anime Scraper
-A simple hanime.tv scraper that scrapes release information using BeautifulSoup4
-
-Note: Please put a ratelimit or proxy to all of the HTTP Requests to prevent getting banned from accessing the hanime.tv website, just in case.
+A simple hanime.tv scraper that scrapes release information using BeautifulSoup4.
 
 ## Getting Started
 
 ### Prerequisites
 
-You need these modules:
+Before we start, we need to install some modules first. You will need to install the following:
+* [bs4](https://pypi.org/project/bs4/) - `pip install bs4`
+* [requests](https://pypi.org/project/requests/) - `pip install requests` (already pre-installed)
 
-* [bs4](https://pypi.org/project/bs4/)
-* [requests](https://pypi.org/project/requests/)
+### Usage
 
-## Usage
-
-Code:
+#### Code:
+The code below imports `hanime.py` and uses the `info` function to print out a dictionary.
 ```python
 import hanime
 print(hanime.info("https://hanime.tv/videos/hentai/lovely-heart-2"))
 ```
-
-Output:
+#### Output:
 ```python
 {
   'brand': 'Mary Jane'
