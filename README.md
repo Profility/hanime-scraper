@@ -3,13 +3,7 @@ A simple hanime.tv scraper that scrapes release information using BeautifulSoup4
 
 ## Getting Started
 
-### Prerequisites
-
-Before we start, we need to install some modules first. You will need to install the following:
-* [bs4](https://pypi.org/project/bs4/) - `pip install bs4`
-* [requests](https://pypi.org/project/requests/) - `pip install requests` (already pre-installed)
-
-### Usage
+Run the `pip install -r requirements.txt` to install all the necessary dependencies
 
 #### Code:
 The code below imports `hanime.py` and uses the `info` function to print out a dictionary.
